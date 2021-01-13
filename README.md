@@ -1,1 +1,2 @@
-# redo_sss_frontend
+# Reactフロントエンド側リポジトリ
+
